@@ -1,4 +1,5 @@
 # MeditationAppDesign
 meditation app design
 
-![mainpage](https://user-images.githubusercontent.com/26750957/138568449-5e0561d1-2064-4184-8eea-47eca100ccdb.png)
+
+![mainpage](https://user-images.githubusercontent.com/26750957/138568507-e241ac86-3b24-40ae-ad4d-aea637991e03.png)
